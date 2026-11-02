@@ -36,7 +36,7 @@ REPO_CARDS = [
      "ZettelCLI: a Java command-line app for linked, atomic notes in the Zettelkasten method."),
     ("shira421/claude-hackathon", "Hackathon",
      "OpenSuite: a free, local-first desktop app that replaces paid PDF and slide tools."),
-    ("shira421/cg2111_2425", "CG2111A robotics project",
+    ("shira421/cg2111_2425", "CG2111A EPP2",
      "Alex, a teleoperated robot that maps unknown terrain and finds casualties by colour."),
 ]
 # Vendored/generated code that would otherwise swamp the language chart.
