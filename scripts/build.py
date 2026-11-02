@@ -34,7 +34,7 @@ REPO_CARDS = [
      "Arithmetic and graphing calculator on a Basys3 FPGA."),
     ("shira421/tp", "CS2113 project",
      "ZettelCLI: a Java command-line app for linked, atomic notes in the Zettelkasten method."),
-    ("shira421/claude-hackathon", "Claude hackathon",
+    ("shira421/claude-hackathon", "Hackathon",
      "OpenSuite: a free, local-first desktop app that replaces paid PDF and slide tools."),
     ("shira421/cg2111_2425", "CG2111A robotics project",
      "Alex, a teleoperated robot that maps unknown terrain and finds casualties by colour."),
