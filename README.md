@@ -37,7 +37,7 @@ Built a real-time thermal imaging system that detects and ranges clear glass for
 
 ### 📊 GitHub stats
 <p align="center">
-<img src="assets/stats.svg" width="34%" align="top" alt="GitHub stats. Commits, past year: 114. Pull requests: 35. Issues: 19. Contributed to, past year: 4. Public repositories: 19. Stars earned: 1."><img src="assets/streak.svg" width="32%" align="top" alt="Contribution streak: current 1 days, longest 6 days, 340 total contributions. Contributions over the last 14 days: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 4."><img src="assets/languages.svg" width="34%" align="top" alt="Top languages by code size: Verilog 38.5%, SystemVerilog 18.3%, C++ 14.9%, Python 14.1%, C 8.3%.">
+<img src="assets/stats.svg" width="34%" align="top" alt="GitHub stats. Commits, past year: 115. Pull requests: 35. Issues: 3. Contributed to, past year: 3. Public repositories: 19. Stars earned: 1."><img src="assets/streak.svg" width="32%" align="top" alt="Contribution streak: current 1 days, longest 6 days, 341 total contributions. Contributions over the last 14 days: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5."><img src="assets/languages.svg" width="34%" align="top" alt="Top languages by code size: Verilog 39.0%, SystemVerilog 18.5%, C++ 15.1%, Python 13.0%, C 8.4%.">
 </p>
 
 ### 📌 Repositories
