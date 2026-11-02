@@ -10,37 +10,27 @@
 </p>
 
 Currently dabbling with FPGAs.
-### NUS
-- **B.Eng (Hons) Computer Engineering**, 2024 – 2028
-- Concentrations in **Embedded Computing** and **Large-Scale Computing**, with a minor in **Quantitative Finance**
 
-### Experience
-**Embedded Software Engineer Intern, PROX SG** (Dec 2025 – Jan 2026)<br>
-Built a real-time thermal imaging system that detects and ranges clear glass for robots, with a C++ vision pipeline on embedded Linux.
+### Past Projects
+<p align="center">
+<a href="https://github.com/shira421/seekcamera-glass-detection"><img src="assets/repo1.svg" width="50%" align="top" alt="Repository seekcamera-glass-detection. PROX SG internship. Detects and ranges clear glass from its reflected heat signature, using a Seek Thermal camera. Language: C++. 0 stars, 0 forks."></a><a href="https://github.com/shira421/cg3207_labs"><img src="assets/repo2.svg" width="50%" align="top" alt="Repository cg3207_labs. CG3207 Computer Architecture. A RISC-V processor in Verilog on a Nexys 4 FPGA, with a radix-4 Booth multiply/divide unit. Language: Verilog. 0 stars, 0 forks."></a><br>
+<a href="https://github.com/shira421/ee2026_b02_g10"><img src="assets/repo3.svg" width="50%" align="top" alt="Repository ee2026_b02_g10. EE2026 Digital Design. Arithmetic and graphing calculator on a Basys3 FPGA, driving dual 96×64 OLED displays. Language: SystemVerilog. 0 stars, 0 forks."></a><a href="https://github.com/shira421/tp"><img src="assets/repo4.svg" width="50%" align="top" alt="Repository tp. CS2113 project · forked from AY2526S1-CS2113-W13-1/tp. ZettelCLI: a Java command-line app for linked, atomic notes in the Zettelkasten method. Language: Java. 0 stars, 0 forks."></a><br>
+<a href="https://github.com/shira421/claude-hackathon"><img src="assets/repo5.svg" width="50%" align="top" alt="Repository claude-hackathon. Claude hackathon · forked from lukeai-tan/claude-hackathon. OpenSuite: a free, local-first desktop app that replaces paid PDF and slide tools. Language: TypeScript. 0 stars, 0 forks."></a><a href="https://github.com/shira421/cg2111_2425"><img src="assets/repo6.svg" width="50%" align="top" alt="Repository cg2111_2425. CG2111A robotics project · forked from Izen9835/cg2111_2425. Alex, a teleoperated robot that maps unknown terrain and finds casualties by colour. Language: Python. 0 stars, 0 forks."></a>
+</p>
 
 ### Tech stack
 **Languages**<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Verilog-555555?style=flat" alt="Verilog">
 
-**Frameworks & libraries**<br>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=white" alt="React Native"> <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-
 **Tools & platforms**<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white" alt="Linux"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle"> <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" alt="JUnit"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat" alt="AWS"> <img src="https://img.shields.io/badge/Vivado-ED1C24?style=flat&logo=amd&logoColor=white" alt="Vivado">
 
 **Hardware**<br>
-<img src="https://img.shields.io/badge/FPGA-555555?style=flat" alt="FPGA"> <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" alt="ESP32"> <img src="https://img.shields.io/badge/FPGA-555555?style=flat" alt="FPGA">
 
 ### GitHub stats
 <p align="center">
 <img src="assets/stats.svg" width="34%" align="top" alt="GitHub stats. Commits, past year: 115. Pull requests: 35. Issues: 3. Contributed to, past year: 3. Public repositories: 19. Stars earned: 1."><img src="assets/streak.svg" width="32%" align="top" alt="Contribution streak: current 1 days, longest 6 days, 341 total contributions. Contributions over the last 14 days: 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 0, 5."><img src="assets/languages.svg" width="34%" align="top" alt="Top languages by code size: Verilog 39.0%, SystemVerilog 18.5%, C++ 15.1%, Python 13.0%, C 8.4%.">
-</p>
-
-### Repositories
-<p align="center">
-<a href="https://github.com/shira421/seekcamera-glass-detection"><img src="assets/repo1.svg" width="50%" align="top" alt="Repository seekcamera-glass-detection. PROX SG internship. Detects and ranges clear glass from its reflected heat signature, using a Seek Thermal camera. Language: C++. 0 stars, 0 forks."></a><a href="https://github.com/shira421/cg3207_labs"><img src="assets/repo2.svg" width="50%" align="top" alt="Repository cg3207_labs. CG3207 Computer Architecture. A RISC-V processor in Verilog on a Nexys 4 FPGA, with a radix-4 Booth multiply/divide unit. Language: Verilog. 0 stars, 0 forks."></a><br>
-<a href="https://github.com/shira421/ee2026_b02_g10"><img src="assets/repo3.svg" width="50%" align="top" alt="Repository ee2026_b02_g10. EE2026 Digital Design. Arithmetic and graphing calculator on a Basys3 FPGA, driving dual 96×64 OLED displays. Language: SystemVerilog. 0 stars, 0 forks."></a><a href="https://github.com/shira421/tp"><img src="assets/repo4.svg" width="50%" align="top" alt="Repository tp. CS2113 project · forked from AY2526S1-CS2113-W13-1/tp. ZettelCLI: a Java command-line app for linked, atomic notes in the Zettelkasten method. Language: Java. 0 stars, 0 forks."></a><br>
-<a href="https://github.com/shira421/claude-hackathon"><img src="assets/repo5.svg" width="50%" align="top" alt="Repository claude-hackathon. Claude hackathon · forked from lukeai-tan/claude-hackathon. OpenSuite: a free, local-first desktop app that replaces paid PDF and slide tools. Language: TypeScript. 0 stars, 0 forks."></a><a href="https://github.com/shira421/cg2111_2425"><img src="assets/repo6.svg" width="50%" align="top" alt="Repository cg2111_2425. CG2111A robotics project · forked from Izen9835/cg2111_2425. Alex, a teleoperated robot that maps unknown terrain and finds casualties by colour. Language: Python. 0 stars, 0 forks."></a>
 </p>
 
 ### Contact
