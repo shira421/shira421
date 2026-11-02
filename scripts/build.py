@@ -26,7 +26,7 @@ os.makedirs(ASSETS, exist_ok=True)
 
 # Repo cards: (repo, context line, description override or None for the GitHub one)
 REPO_CARDS = [
-    ("shira421/seekcamera-glass-detection", "PROX SG internship",
+    ("shira421/seekcamera-glass-detection", "Internship",
      "Detects and ranges clear glass from its reflected heat signature, using a Seek Thermal camera."),
     ("shira421/cg3207_labs", "CG3207 Computer Architecture",
      "A RISC-V processor in Verilog on a Nexys 4 FPGA."),
