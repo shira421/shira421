@@ -1,7 +1,4 @@
 <!-- Edit this file by hand. The card images in assets/ are redrawn daily by scripts/build.py. -->
-
-<h2 align="center">Hi, I'm Ksheerabthi</h2>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shira421&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views">
 <img src="https://img.shields.io/badge/NUS%20Computer%20Engineering-003D7C?style=flat" alt="NUS Computer Engineering">
